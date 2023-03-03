@@ -1,1 +1,1 @@
-# rsschool-cv
+https://strabuk.github.io/rsschool-cv/cv
